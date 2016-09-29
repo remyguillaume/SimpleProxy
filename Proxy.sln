@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{8C4823AE-46D8-48B8-9224-A20B48E55AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugWithoutLDAP|Any CPU = DebugWithoutLDAP|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4823AE-46D8-48B8-9224-A20B48E55AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4823AE-46D8-48B8-9224-A20B48E55AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4823AE-46D8-48B8-9224-A20B48E55AB1}.DebugWithoutLDAP|Any CPU.ActiveCfg = DebugWithoutLDAP|Any CPU
+		{8C4823AE-46D8-48B8-9224-A20B48E55AB1}.DebugWithoutLDAP|Any CPU.Build.0 = DebugWithoutLDAP|Any CPU
+		{8C4823AE-46D8-48B8-9224-A20B48E55AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4823AE-46D8-48B8-9224-A20B48E55AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://kos-tfs.cadrz.ch:8080/tfs/cadrzcollection
+		SccProjectUniqueName0 = Proxy\\Proxy.csproj
+		SccProjectName0 = Proxy
+		SccAuxPath0 = http://kos-tfs.cadrz.ch:8080/tfs/cadrzcollection
+		SccLocalPath0 = Proxy
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
